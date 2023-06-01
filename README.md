@@ -1,1 +1,1 @@
-# Basic Sample Hardhat Project
+# Simple storage smart contract
